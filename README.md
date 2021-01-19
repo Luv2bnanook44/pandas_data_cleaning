@@ -80,7 +80,7 @@ print(sy_201819_hs.shape[0] - sy_201819_hs.dropna().shape[0])
     55
 
 
-## Interporlating the mean value to fillna
+## Interpolating the mean value to fillna
 
 Let's work with the graduation_rate_school column.  
 
