@@ -35,7 +35,7 @@ sy_201819 = None
 one_random_student(student_first_names)
 ```
 
-    Svitlana
+    Christos
 
 
 
@@ -674,7 +674,7 @@ Use the mask to isolate the columns of interest.
 one_random_student(student_first_names)
 ```
 
-    Christos
+    Rachel
 
 
 We will only be working with high schools. 
@@ -692,7 +692,7 @@ sy_201819_hs = None
 one_random_student(student_first_names)
 ```
 
-    Christos
+    Marcos
 
 
 # NA's 
@@ -738,10 +738,10 @@ Only use `inplace=True` in the second instance so we can explore both methods su
 one_random_student(student_first_names)
 ```
 
-    Joe
+    Svitlana
 
 
-## Interporlating the mean value to fillna
+## Interpolating the mean value to fillna
 
 Let's work with the graduation_rate_school column.  
 
@@ -777,7 +777,7 @@ Create a column called `percent_low_income` which is the number of low income st
 one_random_student(student_first_names)
 ```
 
-    Marcos
+    Rachel
 
 
 Create a column which counts the number of classroom languages offered in a school.
